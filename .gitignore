@@ -1,0 +1,10 @@
+# Build & temp
+build/
+dist/
+__pycache__/
+*.spec
+*.pyc
+
+# Local runtime logs & configs
+*.log
+config.json
